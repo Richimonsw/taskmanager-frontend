@@ -4,7 +4,7 @@ Bienvenido al frontend de la aplicación **Gestión de Tareas**, una interfaz de
 
 ## 🌐 Aplicación en Producción
 
-Accede a la aplicación desplegada en el siguiente enlace: [🔗 Aplicación en Producción](https://tu-dominio.com)
+Accede a la aplicación desplegada en el siguiente enlace: [🔗 Aplicación en Producción](https://taskmanager-frontend-nine.vercel.app/)
 
 ---
 
