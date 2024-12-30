@@ -6,6 +6,10 @@ Bienvenido al frontend de la aplicación **Gestión de Tareas**, una interfaz de
 
 Accede a la aplicación desplegada en el siguiente enlace: [🔗 Aplicación en Producción](https://taskmanager-frontend-nine.vercel.app/)
 
+Usuario de ejemplo: 
+Username: `Usuario`
+Contraseña: `Usuario123*`
+
 ---
 
 ## 📋 Requisitos Previos
